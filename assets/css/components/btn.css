@@ -14,3 +14,13 @@
 
   border: none;
 }
+
+.btn--alternative {
+  color: var(--yellow);
+
+  background-color: unset;
+
+  box-shadow: none;
+
+  border: 1px solid var(--yellow);
+}

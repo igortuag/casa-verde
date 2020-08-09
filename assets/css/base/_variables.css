@@ -7,5 +7,12 @@
   --black-transparent: #0000000f;
 
   --family-body: "Montserrat", sans-serif;
+  --family-title-spotilight: "Elsie Swash Caps", serif;
+
+  --weight-title-spotilight: 900;
+  --weight-btn: 700;
+
   --size-family-body: 1rem;
+  --size-family-title: 1.375rem;
+  --size-family-title-spotilight: 2rem;
 }

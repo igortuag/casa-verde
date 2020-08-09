@@ -4,6 +4,7 @@
 body {
   font-family: (--family-body);
   font-size: var(--size-family-body);
+  color: var(--gray);
 
   background: url(../../img/fundo-textura.png), url(../../img/fundo-linhas.png);
   background-position: center;
@@ -12,4 +13,32 @@ body {
 .container {
   padding-right: 1rem;
   padding-left: 1rem;
+}
+
+.title {
+  font-size: var(--size-family-title);
+}
+
+.title--spotilight {
+  font-family: var(--family-title-spotilight);
+  color: var(--preto);
+  font-size: var(--size-family-title-spotilight);
+  font-weight: var(--weight-title-spotilight);
+
+  display: block;
+
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.text {
+  line-height: 26px;
 }

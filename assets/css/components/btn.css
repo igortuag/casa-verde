@@ -1,10 +1,10 @@
 .btn {
-  background-color: #ffcb47;
+  background-color: var(--yellow);
 
   text-align: center;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  color: #fff;
+  color: var(--white);
 
   width: 100%;
   padding-top: 1rem;

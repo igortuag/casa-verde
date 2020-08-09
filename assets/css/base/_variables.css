@@ -1,8 +1,10 @@
 :root {
   --yellow: #ffcb47;
+  --yellow-transparent: #ffcb473d;
   --white: #fff;
   --gray: #909090;
   --black: #202020;
+  --black-transparent: #0000000f;
 
   --family-body: "Montserrat", sans-serif;
   --size-family-body: 1rem;

@@ -10,7 +10,7 @@
   padding-top: 1rem;
   padding-bottom: 1rem;
 
-  box-shadow: 10px 10px 30px #ffcb473d;
+  box-shadow: 10px 10px 30p var(--yellow-transparent);
 
   border: none;
 }

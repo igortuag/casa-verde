@@ -1,0 +1,29 @@
+.headline {
+  padding-top: 2.5rem;
+
+  margin-bottom: 2.5rem;
+
+  background-image: url(../../assets/img/splash-chamada.svg);
+  background-position: top -4rem right;
+  background-repeat: no-repeat;
+
+  position: relative;
+}
+
+.headline__text {
+  width: 12.5rem;
+
+  margin-bottom: 1.55rem;
+}
+
+.headline__image {
+  position: absolute;
+  top: 3.25rem;
+  right: 0;
+}
+
+.headline__form {
+  position: relative;
+
+  z-index: 2;
+}

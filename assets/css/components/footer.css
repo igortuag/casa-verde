@@ -1,0 +1,43 @@
+.footer {
+  padding-top: 1.5rem;
+  padding-bottom: 2.5rem;
+
+  background-color: var(--white);
+  background-image: url(../../img/splash-chamada.svg);
+  background-repeat: no-repeat;
+}
+
+.footer__logo {
+  max-width: 11.125rem;
+
+  margin-bottom: 1.25rem;
+}
+
+.footer__social {
+  display: flex;
+
+  margin-bottom: 2rem;
+}
+
+.footer__social-media {
+  display: inline-block;
+
+  width: 1.625rem;
+  height: 1.625rem;
+
+  margin-right: 1.625rem;
+}
+
+.footer__unity {
+  margin-bottom: 2rem;
+}
+
+.footer__unity-title {
+  color: var(--black);
+  font-size: var(--size-family-title-spotilight);
+  font-weight: var(--weight-spotilight);
+
+  display: block;
+
+  margin-bottom: 0.5rem;
+}
